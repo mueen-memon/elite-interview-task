@@ -25,11 +25,11 @@ This is a web application for managing and starring products. It allows users to
    - cd backend
    - npm install or yarn
    - cd ../frontend
-   - npm install yarn
+   - npm install or yarn
 
 1. Set up environment variables:
 
-   - For this test project I have not added .env to repo with database-url usually this needs to be in git ignore.
+   - For this test project I have added .env to repo with database-url usually this needs to be in git ignore.
 
 1. Start the backend and frontend:
 
