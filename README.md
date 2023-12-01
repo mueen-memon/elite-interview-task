@@ -6,30 +6,30 @@ This is a web application for managing and starring products. It allows users to
 
 - Node.js and npm (Node Package Manager) installed.
 - Prisma CLI installed globally (`npm install -g prisma`).
-- Planer Scale is used for MySql database
+- Planer Scale is used for the MySql database
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/product-management-app.git
+   git clone https://github.com/your-username/elite-interview-task.git
    ```
 
 1. Navigate to the project directory:
 
-   - cd product-management-app
+   - cd elite-task
 
 1. Install dependencies for the backend and frontend:
 
    - cd backend
    - npm install or yarn
    - cd ../frontend
-   - npm installo yarn
+   - npm install yarn
 
 1. Set up environment variables:
 
-   - For this test project I have not added .env to repo usually this need to be in git ignore.
+   - For this test project I have not added .env to repo with database-url usually this needs to be in git ignore.
 
 1. Start the backend and frontend:
 
